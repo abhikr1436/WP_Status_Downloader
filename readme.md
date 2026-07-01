@@ -48,7 +48,15 @@ Since we do not collect personal data on our own servers, we do not retain any o
 
 The Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our records.
 
-## 6. Security
+## 6. Safety Standards & Child Protection (CSAE Policy)
+
+Olfoxacin is committed to ensuring a safe digital environment and maintains a zero-tolerance policy regarding Child Sexual Abuse and Exploitation (CSAE) and any other form of illegal content.
+
+- **Zero Tolerance:** We strictly prohibit the use of this Application for the storage, viewing, or sharing of any content that depicts child sexual abuse or exploitation.
+- **Reporting:** As the Application operates locally on your device and does not host content on our servers, users are encouraged to report any such illegal content found on third-party messaging platforms directly to the respective platform providers (e.g., WhatsApp) and local law enforcement.
+- **Compliance:** We comply with all applicable local and international laws regarding child safety. We cooperate fully with law enforcement and organizations such as NCMEC (National Center for Missing & Exploited Children) should any illegal activity be brought to our attention within the scope of our technical capabilities.
+
+## 7. Security
 
 We value your trust in providing us access to your media folders for the purpose of the app's functionality. We strive to use commercially acceptable means of protecting it, but remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable.
 
